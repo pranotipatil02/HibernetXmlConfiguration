@@ -1,0 +1,2 @@
+# HibernetXmlConfiguration
+HibernetXmlConfiguration
